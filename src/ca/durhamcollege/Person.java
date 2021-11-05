@@ -1,3 +1,10 @@
+/**
+ * @author Jacob Kent
+ * @studentID 100609784
+ * @version 0.0.1
+ * @date Nov 5, 2021
+ */
+
 package ca.durhamcollege;
 
 public class Person
@@ -63,7 +70,6 @@ public class Person
 
     /**
      * This method tests the Person class to return a simple message to the console
-     * @return {Void}
      */
     public void saysHello()
     {
